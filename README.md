@@ -2,4 +2,4 @@
 
 une demo de git modifié depuis github
 
-une petite modif with my computer
+une petite modif with my computer et c'est  cool
